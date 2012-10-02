@@ -1,0 +1,4 @@
+skleleton
+=========
+
+application skeleton
